@@ -1,0 +1,16 @@
+.imgpeque{
+    width: 500px;
+    height: 500px;
+}
+
+.actual{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.sinopsis{
+    padding-top: 10%;
+    font-size: 250%;
+    font-weight: bold;
+
+}
