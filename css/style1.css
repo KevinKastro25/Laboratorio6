@@ -3,6 +3,11 @@
     height: 500px;
 }
 
+.imgmini{
+    width: 250px;
+    height: 250px;
+}
+
 .actual{
     font-weight: bold;
     text-decoration: underline;
